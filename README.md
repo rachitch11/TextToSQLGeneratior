@@ -1,5 +1,5 @@
-# TextToSQLGeneratior
-This is a model in which I created a text to sql genErator which converts any entered text to sql query using Open AI 
+# TextToSQLAI assistant
+This is an ai assistant which covert entered text to a sql query using Open AI 
 TECHNOLOGIES USED
 Python 3.10+ – Core programming language
 - OpenAI API (GPT-3.5) – Converts natural language to SQL
