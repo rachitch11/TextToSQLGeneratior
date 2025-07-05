@@ -6,7 +6,7 @@ Python 3.10+ – Core programming language
 - SQLite3 – Lightweight database for storing sample data
 - SQLAlchemy – (Optional) ORM to connect with databases (if added)
 - Pandas – Used to execute and display SQL query results as tables
-- dotenv (`python-dotenv`)** – For securely loading API keys from `.env` file
+- dotenv (`python-dotenv`) – For securely loading API keys from `.env` file
 
 Jus add .env file and place you open ai api key there to run it smoothly
 
