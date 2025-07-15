@@ -14,6 +14,8 @@ packages used    openai sqlalchemy pandas streamlit python-dotenv
 # Steps Ro Run Assistant
 
 git clone"repo"
+
 Jus add .env file and place you open ai api key there to run it smoothly
+
 run app.py
 
